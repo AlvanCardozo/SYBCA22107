@@ -6,5 +6,9 @@ public class hello_world {
 		System.out.println("1");
 
 	}
+	void newbranch() {
+		System.out.println("Alvan");
+		System.out.println("A C");
+	}
 
 }
