@@ -8,6 +8,7 @@ public class hello_world {
 	}
 	void newbranch() {
 		System.out.println("Alvan");
+		System.out.println("Alvan C");
 	}
 
 }
